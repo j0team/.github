@@ -1,8 +1,6 @@
-### j0team
+## We're building for the builders.
 
-We're building for the builders.
-
-#### What we're building
+### Ongoing projects
 
 - **Pixiverse**: a multiplayer productivity RPG where your real-life tasks level up your character · [pixiverse.app](https://pixiverse.app)
 - **Jonsole**: a hardware console for driving AI coding agents
